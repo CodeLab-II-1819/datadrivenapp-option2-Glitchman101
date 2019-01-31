@@ -26,7 +26,7 @@ public:
 	void onMessage(const ofJson& json);
 
 	ofImage twitLogo;
-	ofRectangle btn1, btn2, btn3, btn4;
+	ofRectangle btn1, btn2, btn3, btn4, btn5, btn6, btn7, btn8, btn9, btn10;
     
 	//declare twitter search client
     ofxTwitter::SearchClient client;
